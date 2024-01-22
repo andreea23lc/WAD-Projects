@@ -1,39 +1,49 @@
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
 
-<!-- EMPHASIS -->
-*Italics*
+## *It's still day one*
+#### Andrea Contreras - Software Developer
 
-_Italics_
+**Introduction:**
+Hello, my name is Andrea Contreras and I am currently studying Software Development Engineering. I am passionate about learning new things and diversifying my knowledge in each activity.
 
-**Bold**
-__Bold__
+**Academic Backgrounds**
+- *University:* Tecmilenio University
+- *Career:* Software Development Engineering
+- *Relevant Courses:* Certificate in "Software Engineering", "Big Data Technologies" and "Productivity based on technological tools".
 
-**_Italic & Bold_**
+**Skills and Tools:**
+*Programming languages:* 
+- Java
+- Python
+- C++
+- C#
+- R 
+- Swift
+  
+*Tools:*
+- SAP 
+- Salesforce Associate
 
-<!-- LISTS -->
-* Item 1
-+ Item 2
-- Item 3
+*Engineering software:*
+- Visual Studio Code
+- Anaconda
+- InteliJ
+- Microsoft Visual Studio
+  
+*Soft skills:* 
+- Learning capacity and problem-solving expertise
+- Assertive and Effective Communication
+- Analytical Capacity
+- Critical Thinking
+- Stress Management
+- Self-managed Leader and Multitasking
 
-1. Item 1 
-    1. Subitem 1
-2. Item 2   
-    2. Subitem 2
-3. Item 3    
-    3. Subitem 3
+**Objectives and goals:**
+My short-term goals include completing my current certificates and gaining hands-on experience in the field. In the long term, I aspire to become a Project Manager in the software development area, leading teams to create innovative solutions.
 
-<!-- LINKS -->
-* [Github](https://github.com)
-* [Instagram](https://www.instagram.com)
+**Personal Projects or Contributions:**
+I am currently working alongside my Lead on an internal project at NU within the strategy team in which we seek to stabilize the national inventory to be able to mutate all the data and migrate it to Brazil to create a global inventory.
 
-<!-- Quote -->
-> “So many books, so little time.”
+**Contact information:**
+You can contact me through my email: Al02827224@tecmilenio.mx or visit my LinkedIn profile.
 
-<!-- Lines -->
-----
-- - -
+"The road to success is always under construction."
