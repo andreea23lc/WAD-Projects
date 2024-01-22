@@ -12,6 +12,7 @@ Hello, my name is Andrea Contreras and I am currently studying Software Developm
 - *Relevant Courses:* Certificate in "Software Engineering", "Big Data Technologies" and "Productivity based on technological tools".
 
 **Skills and Tools:**
+
 *Programming languages:* 
 - Java
 - Python
